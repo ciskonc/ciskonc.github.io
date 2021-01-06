@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>順便寫滴物件</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-01-06T02:35:30.598Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>折騰Windows Terminal</title>
+    <link href="http://example.com/2021/01/06/%E6%8A%98%E9%A8%B0Windows-Terminal/"/>
+    <id>http://example.com/2021/01/06/%E6%8A%98%E9%A8%B0Windows-Terminal/</id>
+    <published>2021-01-05T23:22:00.000Z</published>
+    <updated>2021-01-06T02:35:30.598Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="從網絡上發現幾個有意思的配置"><a href="#從網絡上發現幾個有意思的配置" class="headerlink" title="從網絡上發現幾個有意思的配置"></a>從網絡上發現幾個有意思的配置</h1><h5 id="Windows-Terminal-完美配置-PowerShell-7"><a href="#Windows-Terminal-完美配置-PowerShell-7" class="headerlink" title="Windows Terminal 完美配置 PowerShell 7"></a><a href="https://zhuanlan.zhihu.com/p/13759594">Windows Terminal 完美配置 PowerShell 7</a></h5><h5 id="Windows-Terminal添加到右鍵"><a href="#Windows-Terminal添加到右鍵" class="headerlink" title="Windows Terminal添加到右鍵"></a><a href="https://github.com/LittleNewton/Open_Windows_Terminal_Her">Windows Terminal添加到右鍵</a></h5>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;從網絡上發現幾個有意思的配置&quot;&gt;&lt;a href=&quot;#從網絡上發現幾個有意思的配置&quot; class=&quot;headerlink&quot; title=&quot;從網絡上發現幾個有意思的配置&quot;&gt;&lt;/a&gt;從網絡上發現幾個有意思的配置&lt;/h1&gt;&lt;h5 id=&quot;Windows-Terminal-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇blog</title>
+    <link href="http://example.com/2021/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87blog/"/>
+    <id>http://example.com/2021/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87blog/</id>
+    <published>2021-01-05T22:17:19.000Z</published>
+    <updated>2021-01-05T22:47:58.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>這是我的第一篇博客。之前在中專的時候用過Wordpress，當然抱着玩玩的心態裝的也自然沒有後續了，這次想試着寫點東西看看能堅持多久吧</p><p>參考<a href="https://albenw.github.io/posts/4ffa5bc6/">https://albenw.github.io/posts/4ffa5bc6/</a> 建立的</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;這是我的第一篇博客。之前在中專的時候用過Wordpress，當然抱着玩玩的心態裝的也自然沒有後續了，這次想試着寫點東西看看能堅持多久吧&lt;/p&gt;
+&lt;p&gt;參考&lt;a href=&quot;https://albenw.github.io/posts/4ffa5bc6/&quot;&gt;https://a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/01/06/hello-world/"/>
+    <id>http://example.com/2021/01/06/hello-world/</id>
+    <published>2021-01-05T22:16:26.000Z</published>
+    <updated>2021-01-05T22:16:26.496Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
